@@ -188,7 +188,7 @@ image = render_milky_way(900, 900, [0, 0, 12], 0.08, 400, True)
 
 If you use this code in your research, please cite the thesis:
 
-> Scartazzini, A., *Numerical Integration Methods for Raytracing in Schwarzschild Spacetime*, Master's Thesis, University of Bern, 2025.
+> Scartazzini, A., *3D Visualization of a Schwarzschild Black Hole Environment*, Master's Thesis, University of Bern, 2025.
 
 The thesis is included as `thesis.pdf` in this repository.
 
