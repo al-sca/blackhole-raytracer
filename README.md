@@ -33,7 +33,7 @@ A CUDA-accelerated numerical relativity raytracer for Schwarzschild black holes,
 ## Quick Start
 
 ```bash
-git clone https://github.com/<your-username>/blackhole-raytracer.git
+git clone https://github.com/al-sca/blackhole-raytracer.git
 cd blackhole-raytracer
 uv sync
 uv run main.py
